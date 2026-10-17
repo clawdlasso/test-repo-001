@@ -33,3 +33,12 @@ Allows a user to remove all files and applications cleanly off a system
 
 11. Pianoskillboost.com
 Learn to play the piano for free
+
+
+Source: 
+Instagram: @leelockedin
+Title: 3 Dangerous Websites to know
+
+1. geospy.ai (image validator)
+2. turbo.ai (tutorial generator)
+3. adescargar.net (app source)
