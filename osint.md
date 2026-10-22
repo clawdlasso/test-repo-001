@@ -12,5 +12,19 @@ Title: How to get your old social media passwords
 1. emailosint.org
 2. geospy.ai (image validator)
 
+Source: 
+Instagram: @AriaCodez
+Title: Powerful tricks you probably should not know (Part 331)
 
+1. revealer.us (reveals all socials tied to a single email address)
+2. shodan.io/dashboard (shows open IP addresses and reveals exposed devices such as webcams and computers)
+3. breachdirectory.org (breach identifier)
+4. crackstation.net (hash cracker website used to expose emails based on hashs obtained from breachdirectory.org)
 
+Source: 
+Instagram: @AriaCodez
+Title: Powerful tricks you probably should not know (Part 351)
+
+1. github.com/sonarr/sonarr (movie downloads)
+2. z-lib.gd (books)
+3. arena.ai (free ai resources and model access)
