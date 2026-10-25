@@ -43,3 +43,18 @@ Title: 40 Claude Repos worth every penny
 39. headroom
 40. caveman
 
+Source: 
+Facebook: @nocode.joshua
+Title: ClaudeSkills
+
+1. chief-of-staff
+2. anatomy
+3. teach
+4. marketing-psychology
+5. last30days
+
+Source: 
+Instagram: @JENS.HEITMAN
+Title: GithubGo2
+1. rea
+
